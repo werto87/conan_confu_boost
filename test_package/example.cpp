@@ -1,6 +1,5 @@
 
-//#include "confu_boost/confuBoost.hxx"
-#include "/home/walde/.conan/data/confu_boost/0.0.1/confu_boost/0.0.1/source/confu_boost-0.0.1/confu_boost/confuBoost.hxx"
+#include "confu_boost/confuBoost.hxx"
 #include <boost/archive/text_iarchive.hpp>
 #include <boost/archive/text_oarchive.hpp>
 #include <iostream>
