@@ -6,10 +6,3 @@ add_executable(example example.cpp)
 target_compile_features(example PRIVATE cxx_std_20)
 message(${CONAN_LIBS})
 target_link_libraries(example ${CONAN_LIBS})
-#print all variables used in cmake
-get_cmake_property(_variableNames VARIABLES)
-list (SORT _variableNames)
-foreach (_variableName ${_variableNames})
-   message(STATUS "${_variableName}=${${_variableName}}")
-endforeach()
-
