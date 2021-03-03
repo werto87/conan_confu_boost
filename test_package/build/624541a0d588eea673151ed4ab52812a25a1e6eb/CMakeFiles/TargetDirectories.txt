@@ -1,0 +1,3 @@
+/home/walde/projects/conan_confu_boost/test_package/build/624541a0d588eea673151ed4ab52812a25a1e6eb/CMakeFiles/rebuild_cache.dir
+/home/walde/projects/conan_confu_boost/test_package/build/624541a0d588eea673151ed4ab52812a25a1e6eb/CMakeFiles/edit_cache.dir
+/home/walde/projects/conan_confu_boost/test_package/build/624541a0d588eea673151ed4ab52812a25a1e6eb/CMakeFiles/example.dir
