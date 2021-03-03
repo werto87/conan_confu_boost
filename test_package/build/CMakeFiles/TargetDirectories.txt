@@ -1,3 +1,0 @@
-/home/walde/projects/conan_confu_boost/test_package/build/CMakeFiles/rebuild_cache.dir
-/home/walde/projects/conan_confu_boost/test_package/build/CMakeFiles/edit_cache.dir
-/home/walde/projects/conan_confu_boost/test_package/build/CMakeFiles/example.dir
